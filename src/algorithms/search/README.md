@@ -1,0 +1,1 @@
+![Linear Search](https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif)
