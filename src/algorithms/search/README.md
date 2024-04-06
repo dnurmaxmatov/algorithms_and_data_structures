@@ -1,4 +1,4 @@
-linear search algoritmi topish kerak bo'lgan elementni topish uchun ketma ket qidirish algoritmi hosoblanadi
+Linear search algoritmi topish kerak bo'lgan elementni topish uchun ketma ket qidirish algoritmi hosoblanadi
 
 Big O(n)- ushbu algoritm eng yomon holatda n marta solishtirihsni amalga oshiradi 
 
